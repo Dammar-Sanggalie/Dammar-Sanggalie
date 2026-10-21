@@ -1,0 +1,26 @@
+name: Auto-detect Stack
+on:
+  schedule:
+    - cron: "0 0 * * 0"   # Every Sunday at midnight UTC
+  workflow_dispatch:       # Can also be triggered manually
+permissions:
+  contents: write
+jobs:
+  update-stack:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repo
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch language stats and patch README
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/update_stack.py
+      - name: Commit updated README
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: auto-update stack from repos [skip ci]"
+          file_pattern: README.md 
