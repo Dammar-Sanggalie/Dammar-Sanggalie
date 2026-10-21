@@ -1,23 +1,35 @@
-# Dammar Sanggalie
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header" width="100%" />
 
-Informatics student · Project Manager @ Diginesa · Backend enthusiast
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=520&height=60&lines=dammar+sanggalie;backend+dev+%C2%B7+project+manager" alt="Typing SVG" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="mailto:dammarsanggalie@gmail.com"><img src="https://img.shields.io/badge/Gmail-dammarsanggalie-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dammar-sanggalie-67a452281/"><img src="https://img.shields.io/badge/LinkedIn-Dammar_Sanggalie-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/dammarsanggalie/"><img src="https://img.shields.io/badge/Instagram-@dammarsanggalie-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="https://open.spotify.com/user/31vr4ktsc3xpwfr4hnv2nob2hy6e?si=9c16200ca91a450d"><img src="https://img.shields.io/badge/Spotify-playlist-1DB954?style=flat&logo=spotify&logoColor=white" /></a>
+</div>
 
 ---
 
-## About
+### `> whoami`
 
-```typescript
+```js
 const dammar = {
-  role     : "Informatics Student + Project Manager @ Diginesa",
-  focus    : "Backend development — Java & Spring Boot",
-  goal     : "Full-stack developer",
-  hobbies  : ["music", "futsal"],
+  student   : "Informatics @ University",
+  role      : "Project Manager @ Diginesa",
+  focus     : "Backend · Java · Spring Boot",
+  learning  : "Full-stack web development",
+  offline   : "futsal · music",
 };
 ```
 
 ---
 
-## Stack
+### Stack
 
 > *Auto-detected from public repos every Sunday via GitHub Actions.*
 
@@ -36,45 +48,59 @@ const dammar = {
 
 ---
 
-## Tools
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
-
----
-
-## Stats
+### Tools & Technologies
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dammar-Sanggalie&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dammar-Sanggalie&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,py,dart,flutter,html,css,mysql,git,github,vscode,idea&perline=7&theme=dark" />
 </div>
 
 ---
 
-## Contact
+### GitHub Stats
 
 <div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dammar-Sanggalie&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dammar-Sanggalie&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+</div>
 
-[![Email](https://img.shields.io/badge/Email-dammarsanggalie%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dammarsanggalie@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dammar_Sanggalie-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dammar-sanggalie-67a452281/)
-[![Instagram](https://img.shields.io/badge/Instagram-@dammarsanggalie-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/dammarsanggalie/)
-[![Spotify](https://img.shields.io/badge/Spotify-coding_playlist-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/31vr4ktsc3xpwfr4hnv2nob2hy6e?si=9c16200ca91a450d)
+<br>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Dammar-Sanggalie&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+</div>
+
+---
+
+### Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dammar-Sanggalie&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" />
+</div>
+
+---
+
+### Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dammar-Sanggalie&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" width="95%" />
+</div>
+
+---
+
+### Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dammar-Sanggalie/Dammar-Sanggalie/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dammar-Sanggalie/Dammar-Sanggalie/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Dammar-Sanggalie/Dammar-Sanggalie/output/github-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
 
 <div align="center">
-  <sub>Profile views: <img src="https://komarev.com/ghpvc/?username=Dammar-Sanggalie&style=flat-square&color=58a6ff" /></sub>
+  <sub>views <img src="https://komarev.com/ghpvc/?username=Dammar-Sanggalie&style=flat&color=58a6ff&label=" /></sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%" />
