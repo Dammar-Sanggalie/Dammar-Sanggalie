@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=520&height=60&lines=dammar+sanggalie;backend+dev+%C2%B7+project+manager" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=30&lines=dammar+sanggalie+%E2%80%94+backend+dev+%C2%B7+project+manager" alt="Typing SVG" />
 </div>
 
 <br>
@@ -65,34 +65,6 @@ const dammar = {
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Dammar-Sanggalie&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-</div>
-
----
-
-### Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dammar-Sanggalie&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" />
-</div>
-
----
-
-### Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dammar-Sanggalie&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" width="95%" />
-</div>
-
----
-
-### Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dammar-Sanggalie/Dammar-Sanggalie/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dammar-Sanggalie/Dammar-Sanggalie/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Dammar-Sanggalie/Dammar-Sanggalie/output/github-snake-dark.svg" />
-  </picture>
 </div>
 
 ---
