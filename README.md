@@ -62,36 +62,6 @@ const dammar = {
 
 ---
 
-## Keep It Fresh with GitHub Actions
-
-Want the stack table above to always reflect your latest repos? Drop this workflow in your profile repo:
-**`.github/workflows/update-stack.yml`**
-```yaml
-name: Auto-detect Stack
-on:
-  schedule:
-    - cron: "0 0 * * 0"   # every Sunday midnight
-  workflow_dispatch:
-jobs:
-  update:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-      - name: Fetch language stats & patch README
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python .github/scripts/update_stack.py
-      - uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: auto-update stack from repos [skip ci]"
-```
-*(See the companion script below — it patches the `## Stack` section automatically.)*
-
----
-
 ## Contact
 
 <div align="center">
