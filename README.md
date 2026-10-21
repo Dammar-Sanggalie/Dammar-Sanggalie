@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header" width="100%" />
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=520&height=60&lines=dammar+sanggalie;backend+dev+%C2%B7+project+manager" alt="Typing SVG" />
 </div>
@@ -82,7 +80,7 @@ const dammar = {
 ### Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dammar-Sanggalie&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dammar-Sanggalie&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" width="95%" />
 </div>
 
 ---
@@ -102,5 +100,3 @@ const dammar = {
 <div align="center">
   <sub>views <img src="https://komarev.com/ghpvc/?username=Dammar-Sanggalie&style=flat&color=58a6ff&label=" /></sub>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%" />
